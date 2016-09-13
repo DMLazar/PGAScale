@@ -1,2 +1,3 @@
 # PGAScale
-Files for Scale and PGA Paper
+Files for Scale and Curvature Effects in Principal Geodesic Analysis
+More to Come! 
